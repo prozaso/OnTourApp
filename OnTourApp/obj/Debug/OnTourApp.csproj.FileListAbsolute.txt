@@ -1,0 +1,15 @@
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\bin\Debug\OnTourApp.exe.config
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\bin\Debug\OnTourApp.exe
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\bin\Debug\OnTourApp.pdb
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.csprojAssemblyReference.cache
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\MainWindow.g.cs
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\App.g.cs
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp_MarkupCompile.cache
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp_MarkupCompile.lref
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\MainWindow.baml
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.g.resources
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.Properties.Resources.resources
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.csproj.GenerateResource.cache
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.csproj.CoreCompileInputs.cache
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.exe
+C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\OnTourApp.pdb
