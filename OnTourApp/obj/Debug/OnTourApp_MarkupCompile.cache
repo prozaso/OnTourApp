@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\skois\source\repos\OnTourApp\OnTourApp\obj\Debug\
+C:\Users\skois\Source\Repos\skoiis\OnTourApp\OnTourApp\obj\Debug\
 OnTourApp
 none
 false
 DEBUG;TRACE
-C:\Users\skois\source\repos\OnTourApp\OnTourApp\App.xaml
-11151548125
+C:\Users\skois\Source\Repos\skoiis\OnTourApp\OnTourApp\App.xaml
+12-192398238
 
-5-2017746502
-13738642453
-MainWindow.xaml;
+14697172275
+1849059467
+AdminGestionContrato.xaml;AdminGestionUsuarios.xaml;MainWindow.xaml;MenuAdmin.xaml;MenuRepresentante.xaml;MenuCliente.xaml;MenuApoderado.xaml;MenuAlumno.xaml;MenuDuenio.xaml;MenuEjecutivoVenta.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;
 
 False
 

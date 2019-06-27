@@ -1,0 +1,59 @@
+﻿<Controls:MetroWindow x:Class="OnTourApp.MenuAdmin"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnTourApp"
+        mc:Ignorable="d"
+        Title="OnTour - Administrador" Height="460.751" Width="667.918" WindowStartupLocation="CenterScreen" TitleCharacterCasing="Normal" TitlebarHeight="24" Icon="img/OnTourLogo.png" Background="#FF3373F2">
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="203*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+
+        <Controls:Tile x:Name="btnGestionUsuarios" Title="Gestion Usuarios" Grid.Row="2" Grid.Column="2" Background="#FF3373F2" Width="Auto" Height="Auto" Margin="0" HorizontalTitleAlignment="Center" Click="BtnGestionUsuarios_Click">
+            <iconPacks:PackIconModern Kind="UserTie" Foreground="White" Height="100" Width="100" />
+        </Controls:Tile>
+
+        <Controls:Tile x:Name="btnGestionContrato" Title="Gestion Contratos" Grid.Row="5" Grid.Column="2" Background="#FF3373F2" HorizontalTitleAlignment="Center" Height="Auto" Width="Auto" Margin="0" Click="BtnGestionContrato_Click">
+            <iconPacks:PackIconModern Kind="Paper" Foreground="White" Height="100" Width="100" />
+        </Controls:Tile>
+
+        <Controls:Tile x:Name="btnGestionTours" Title="Gestion Tours" Grid.Row="2" Grid.Column="4" Background="#FF3373F2" Height="Auto" Width="Auto" HorizontalTitleAlignment="Center" Margin="0">
+            <iconPacks:PackIconModern Kind="TransitBus" Foreground="White" Height="100" Width="100" />
+        </Controls:Tile>
+
+        <Controls:Tile x:Name="btnConsultarAporte" Title="Consultar Aporte" Grid.Row="5" Grid.Column="4" Background="#FF3373F2" Width="Auto" Height="Auto" HorizontalTitleAlignment="Center" Margin="0">
+            <iconPacks:PackIconModern Kind="Money" Foreground="White" Height="100" Width="100" />
+        </Controls:Tile>
+
+        <Controls:Tile x:Name="btnGestionSeguro" Title="Gestion Seguro" Grid.Row="2" Grid.Column="6" Background="#FF3373F2" Height="Auto" Width="Auto" HorizontalTitleAlignment="Center" Margin="0">
+            <iconPacks:PackIconModern Kind="Shield" Foreground="White" Height="100" Width="100" />
+        </Controls:Tile>
+
+        <Controls:Tile x:Name="btnGenerarInforme" Title="Generar Informe" Grid.Row="5" Grid.Column="6" Background="#FF3373F2" Width="Auto" Height="Auto" HorizontalTitleAlignment="Center" Margin="0">
+            <iconPacks:PackIconModern Kind="Information" Foreground="White" Height="100" Width="100" />
+        </Controls:Tile>
+
+    </Grid>
+</Controls:MetroWindow>

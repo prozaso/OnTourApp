@@ -1,0 +1,6 @@
+C:\Users\skois\source\repos\skoiis\OnTourApp\OnTourLibrary\bin\Debug\OnTourLibrary.dll
+C:\Users\skois\source\repos\skoiis\OnTourApp\OnTourLibrary\bin\Debug\OnTourLibrary.pdb
+C:\Users\skois\source\repos\skoiis\OnTourApp\OnTourLibrary\obj\Debug\OnTourLibrary.csprojAssemblyReference.cache
+C:\Users\skois\source\repos\skoiis\OnTourApp\OnTourLibrary\obj\Debug\OnTourLibrary.csproj.CoreCompileInputs.cache
+C:\Users\skois\source\repos\skoiis\OnTourApp\OnTourLibrary\obj\Debug\OnTourLibrary.dll
+C:\Users\skois\source\repos\skoiis\OnTourApp\OnTourLibrary\obj\Debug\OnTourLibrary.pdb
